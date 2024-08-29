@@ -1,14 +1,7 @@
-### 1. How do I approach designing software?
-
 
 I design the software by first understanding what the project requires, then breaking down the big goal into smaller achievable pieces. In this project, new design skills in modular design and texture mapping in computational graphics were acquired. The overall iterative design process was used from basic shapes to improve gradually the details of the shapes, textures, and lighting effects. This iterative approach afforded me the opportunity to make continuous improvements to the scene and incorporate feedback effectively. Some of the tactics I used, such as modular design and iteration development, will be important in future projects because they engrain flexibility and adaptability for having the design changeable and growing with time.
 
-### 2. How do I approach developing programs?
-
 
 I observe modularity, testing, and clarity of code in program development. In the creation of this 3D scene, there were a lot of new strategies that I had used, such as applying complex light effects and texture applications that create more realism and view interest. Iteration was very important in my development process because it allowed me to add incrementally features one by one, testing if they work according to what was intended, then improve them if necessary. My approach to coding changed a lot across each of the milestones: from basic functionality and foundational elements at first, it slowly moved on to more complicated elements, finally optimizing my code better in performance and organization.
-
-### 3. How can computer science help me in reaching my goals?
-
 
 I can attain my goals with the instrumental role that computer science plays in providing a solid base in problem-solving, algorithm development, and software engineering principles. I have learned about computational graphics and visualizations, which will definitely make me able to develop more exciting and interactive applications. These skills are also directly relevant to my further education in areas like data visualization and virtual reality, such as visualizing data and settings. On the professional level, the ability to model and manipulate 3D environments is very useful, for example, in game development, simulation, and any other interactive, immersivebyname applications. This project enabled me with technical knowledge and creative problem-solving skills in these areas.
